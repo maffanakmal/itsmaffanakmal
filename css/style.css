@@ -224,16 +224,6 @@ img {
     transform: translateY(-100%);
 }
 
-.client {
-    margin-top: -1px;
-    margin-left: -1px;
-}
-
-/* .client img {
-    opacity: .7;
-    height: 30px;
-}  */
-
 .eduexp {
     position: relative;
 }
