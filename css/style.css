@@ -167,33 +167,6 @@ img {
     border-radius: 50px;
 }
 
-.custom-link {
-    display: inline-flex;
-    align-items: center;
-}
-
-.custom-link span {
-    font-weight: 700;
-    color: var(--c-dark);
-}
-
-.custom-link i {
-    width: 24px;
-    height: 24px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    background-color: var(--c-brand);
-    border-radius: 100px;
-    color: white;
-    margin-left: 6px;
-    transition: var(--transition);
-}
-
-.custom-link:hover i{
-    transform: translateX(6px);
-}
-
 .project {
     overflow: hidden;
     position: relative;
